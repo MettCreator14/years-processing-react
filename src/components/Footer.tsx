@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
                 <a href="https://discord.gg/mFVfHBbJ3d" target="_blank" rel="noopener noreferrer">
                     <i className="fab fa-discord"></i>
                 </a>
-                <a href="https://www.instagram.com/mett.300?igshid=MXZrdWh0eWNkcnU5bw==" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/ilmatteo008?igsh=MXZrdWh0eWNkcnU5bw==">
                     <i className="fab fa-instagram"></i>
                 </a>
             </div>
